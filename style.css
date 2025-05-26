@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(248, 246, 244);
+}
+
+.navbarr{
+    background-color:rgb(181, 164, 164);
+    display: flex;
+    height:80px;
+    position:sticky;
+    top: 0px;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;   
+}
+
+
+#anchor{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 45%;
+    color:white
+}
+
+
+
+h1{
+    text-align: center;
+    color:#66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+h2{
+    text-align: center;
+    color: #66bfbf;
+    font-size: 2.625rem;
+}
+
+#cloud1{
+    margin-left: 70%;
+    margin-top: 40px;
+}
+
+#cloud2{
+    margin-left: 15%;
+    margin-bottom: 0px;
+}
+
+.mountain{
+    display:flex;
+    justify-content:center;
+}
+
+.nnenna{
+    display:flex;
+    justify-content:center ;
+}
+
+#nnenna{
+    margin-top: 8%;
+    margin-bottom: 7%;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.hero{
+    display:flex;
+    justify-content: center;
+}
+
+h3{
+    text-align: center;
+    color: #66bfbf;
+    font-size: 2.3rem;
+    margin-bottom: 3%;
+}
+
+p{
+    text-align: center;
+      font-size: 1.5re;
+      margin-bottom: 10%;
+}
+
+.hero{
+    display: flex;
+    justify-content:center;
+}
+
+#chillies{
+    height: 150px;
+}
+
+.hero2{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h4{
+    text-align: center;
+    color: #66bfbf;
+    font-size: 1.5rem;
+    margin-bottom: 3%;
+}
+            
